@@ -65,8 +65,8 @@ Any changes made to IIS requires a restart or stopping of the program. This does
 ![os ticket install home page](https://github.com/Randrade1995/osTicket-install-config-/assets/161271930/d0398f43-8584-49b2-8aca-00d7ff68627d)
 
 
-I was able to just navigate around the program and get use to it. learn how System admins assigns tickets or roles. It gave me a better understanding of the program and how important it is. espicailly for SLA agreements!
 
+At this point, if you are lucky enough, osTicket has been installed! the hardest part is done and now you can set up an account and just go through the program.
 
 
 ![roles](https://github.com/Randrade1995/osTicket-install-config-/assets/161271930/01e7286e-c0c3-4eff-90bc-083306d9fd8d)
@@ -76,7 +76,7 @@ I was able to just navigate around the program and get use to it. learn how Syst
 
 
 
-
+I was able to just navigate around the program and get use to it. learn how System admins assigns tickets or roles. It gave me a better understanding of the program and how important it is. espicailly for SLA agreements!
 
 
 ![department](https://github.com/Randrade1995/osTicket-install-config-/assets/161271930/9d8b4834-a4a3-4f6d-b810-7563d60f20e0)
